@@ -51,4 +51,11 @@ Explorar e analisar um conjunto de dados de filmes do IMDb, extraindo insights r
    python -m venv .venv
    .venv\Scripts\activate
    (mac/linux) source .venv/bin/activate
+   pip install -r requirements.txt
+   jupyter notebook notebooks/imdb_pipeline.ipynb
+🚀 Resultados
+
+O modelo pode ser usado para prever a nota IMDb de novos filmes, a partir de atributos como ano, gênero, certificação, duração, descrição e elenco.
+
+A análise exploratória trouxe insights interessantes sobre padrões do cinema e fatores que podem influenciar avaliações.
    
