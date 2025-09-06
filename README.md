@@ -46,7 +46,7 @@ Explorar e analisar um conjunto de dados de filmes do IMDb, extraindo insights r
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/desafio-ciencia-dados-imdb.git
+   git clone https://github.com/ArturCesarGit/desafio-ciencia-dados-imdb.git
    cd desafio-ciencia-dados-imdb
    python -m venv .venv
    .venv\Scripts\activate
